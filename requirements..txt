@@ -1,0 +1,19 @@
+Python version: 3.11.4 (matches the interpreter version in VSCode, important for sys module)
+
+---
+
+CustomTkinter - v 5.2.1
+
+Link:https://github.com/TomSchimansky/CustomTkinter
+
+CTkTable - v 0.8
+
+Link: https://github.com/Akascape/CTkTable
+
+
+--- 
+
+Extra(was not used derectly but installed in process):
+
+darkdetect - v 0.8.0
+packaging - v 23.2
